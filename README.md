@@ -5,6 +5,7 @@
 - Platform: Cloud-based (SaaS)
 
 ## Section 2: A Map of your documentation
+'''
 DS4002_Project1/
 │
 ├── README.md
@@ -32,5 +33,5 @@ DS4002_Project1/
     ├── Top_Special_Chacters_and_Words_Ham.png
     ├── Top_Special_Chacters_and_Words_Spam.png
     └── Vectorizer Output.pdf
-
+'''
 ## Section 3: Instructions for reproducing results
