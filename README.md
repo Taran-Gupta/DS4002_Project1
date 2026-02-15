@@ -58,3 +58,13 @@ This section will cover the order in which code files may be executed or created
 11. Create a logistic regression model, leverage scitkitlearn packages. Column transform the data with the extra features before fitting a model on the training data.
 12. Run a prediction on the training data and evaluate results.
 13. Finally, compare the performance of all 3 models. Additional validation can be done by trying different train/test ratios and random states, as well as training/testing/applying the model to larger datasets.
+
+## References 
+[1] “How to spot a scam email, text message or call,” NCSC, https://www.ncsc.gov.uk/collection/phishing-scams/spot-scams (accessed Jan. 28, 2026).  
+[2]	Tiago A. Almeida, José María G. Hidalgo, and Akebo Yamakami. 2011. Contributions to the study of SMS spam filtering: new collection and results. In Proceedings of the 11th ACM symposium on Document engineering (DocEng '11). Association for Computing Machinery, New York, NY, USA, 259–262. https://doi.org/10.1145/2034691.2034742	                                                                     
+[3] S. Kamperis, “How to implement a naive Bayes classifier with tensorflow,” Let’s talk about science!, https://ekamperi.github.io/machine%20learning/2020/12/31/
+naive-bayes-classifier-in-tensorflow.html (accessed Jan. 28, 2026).                                                                                                                                               
+[4] GeeksforGeeks, “Naive Bayes Classifiers,” GeeksforGeeks, Mar. 03, 2017. https://www.geeksforgeeks.org/machine-learning/naive-bayes-classifiers/ (accessed Feb. 04, 2026).                                   
+[5] GeeksforGeeks, “Using CountVectorizer to Extracting Features from Text,” GeeksforGeeks, Jul. 15, 2020. https://www.geeksforgeeks.org/nlp/using-countvectorizer-to-extracting-features-from-text/ (accessed Feb. 04, 2026).                                                                                                                                                                                                
+[6] B. G. Regmi, “Spam Classification using Naive Bayes Algorithm,” Medium, Feb. 22, 2021. https://binitaregmi.medium.com/spam-classification-using-naive-bayes-algorithm-3e263061a3b0 (accessed Feb. 04, 2026).  
+[7] Ledjob, “simple_fast_classification/classification_jupyter.ipynb at master · Ledjob/simple_fast_classification,” GitHub, 2025. https://github.com/Ledjob/simple_fast_classification/blob/master/classification_jupyter.ipynb (accessed Feb. 04, 2026).      
